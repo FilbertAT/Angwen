@@ -1,0 +1,25 @@
+body {
+  background-color: #fbecec;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4.75rem;
+  font-family: 'Russo One', sans-serif;
+  color: #e84a5f;
+}
+
+img {
+  height: 25rem;
+  padding: 25px 25px;
+}
+
+.love {
+  height: 15rem;
+  padding: 90px 15px;
+}
+
+.down {
+  font-size: 1rem;
+  font-family: 'Roboto Mono', monospace;
+}
