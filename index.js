@@ -11,7 +11,8 @@ document.querySelector(".img2").setAttribute("src", picsChosen2);
 
 if (randomNumber === 3) {
 
-  document.querySelector("h1").innerHTML = "Good Luck With Ivon, Angwennnn!";
+  document.querySelector("h1").innerHTML = "Winner Winner Ivon Dinner!";
+  prompt("Happy Birthday Angwen");
 
 } else {
 
